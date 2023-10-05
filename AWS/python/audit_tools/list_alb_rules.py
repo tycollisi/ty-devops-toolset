@@ -1,5 +1,4 @@
 import boto3
-import json
 
 def get_alb_listener_arns(alb_client, alb_arn):
     listener_arns = []
