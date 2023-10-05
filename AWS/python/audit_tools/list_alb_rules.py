@@ -126,5 +126,5 @@ def main():
             
 
 if __name__ == "__main__":
-    cli_profile = "mgmt"
+    cli_profile = "default"
     main()
